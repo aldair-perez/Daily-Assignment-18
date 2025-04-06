@@ -1,0 +1,10 @@
+---
+title: "Exercise-18"
+subtitle: "ESS 330"
+author:
+- name: "Aldair Perez Marmolejo"
+format: html
+execute: 
+  echo: true
+---
+
